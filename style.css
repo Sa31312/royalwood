@@ -41,7 +41,7 @@ a.cont-btn {
 }
 
 section#hero {
-    padding: 10px 45px;
+    padding: 30px 45px;
     background-color: #F9F9F9;
 }
 .content {
@@ -64,4 +64,31 @@ section#hero {
     line-height: 41px;
     font-size: 22px;
     font-style: normal;
+}
+section#about-us {
+    text-align: center;
+    padding: 30px 40px;
+}
+h2.upper-heading {
+    font-size: 18px;
+    font-weight: 600;
+    color: var(--subheading-color);
+    font-style: normal;
+}
+#about-us h1 {
+    color: #28275E;
+    font-family: Nunito;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+#about-us p {
+    color: #6B6B6B;
+    text-align: center;
+    font-family: Nunito;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 41px;
 }
