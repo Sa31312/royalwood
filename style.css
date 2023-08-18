@@ -117,6 +117,7 @@ section#core-values {
     margin-top: 45px;
 }
 p.card-text {
+	padding: 0px 10px;
     font-size: 18px;
     font-style: normal;
     font-weight: 500;
@@ -135,4 +136,43 @@ h3.card-heading {
     font-weight: 600;
     line-height: normal;
     color: var(--heading-color);
+}
+section#team {
+    text-align: center;
+    padding: 40px;
+}
+.our-team-card {
+    color: white;
+    border-radius: 22px;
+    background: #28275E;
+    width: 413px;
+    height: 203px;
+    text-align: center;
+}
+h3.team-heading {
+    padding-top: 40px;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+h2.team-text {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+a.team-icon {
+    text-decoration: none;
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.our-team {
+	margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
