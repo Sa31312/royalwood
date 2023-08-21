@@ -41,7 +41,7 @@ a.cont-btn {
 }
 
 section#hero {
-    padding: 30px 45px;
+    padding: 40px 40px 60px 40px;
     background-color: #F9F9F9;
 }
 .content {
@@ -55,7 +55,7 @@ section#hero {
 .content h1 {
 	color: var(--heading-color);
     line-height: normal;
-    font-size: 56px;
+    font-size: 54px;
     font-weight: 700;
     font-style: normal;
 }
@@ -67,7 +67,7 @@ section#hero {
 }
 section#about-us {
     text-align: center;
-    padding: 30px 40px;
+    padding: 40px 40px 60px 40px;
 }
 h2.upper-heading {
     font-size: 18px;
@@ -77,7 +77,6 @@ h2.upper-heading {
 }
 #about-us h1 {
     color: #28275E;
-    font-family: Nunito;
     font-size: 48px;
     font-style: normal;
     font-weight: 700;
@@ -86,7 +85,6 @@ h2.upper-heading {
 #about-us p {
     color: #6B6B6B;
     text-align: center;
-    font-family: Nunito;
     font-size: 18px;
     font-style: normal;
     font-weight: 500;
@@ -95,7 +93,7 @@ h2.upper-heading {
 section#core-values {
     background-color: var(--heading-color);
     text-align: center;
-    padding: 30px 40px;
+    padding: 40px 40px 60px 40px;
     color: white;
 }
 #core-values h1, #contact-us h1, #team h1 {
@@ -139,7 +137,7 @@ h3.card-heading {
 }
 section#team {
     text-align: center;
-    padding: 40px;
+	padding: 40px 40px 60px 40px;
 }
 .our-team-card {
     color: white;
@@ -177,7 +175,7 @@ a.team-icon {
     align-items: center;
 }
 section#contact-us{
-	padding: 40px;
+	 padding: 40px 40px 60px 40px;
 	 background-color: #F9F9F9;
 	text-align: center;
 }
